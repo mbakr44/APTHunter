@@ -1,7 +1,6 @@
 # APTHunter's Supplementary Informaiton
 
-#### 1- Attack Conditions
-A consolidated list of provenance queries coditions for different attack techinques described in APTHunter.
+#### 1- Attack Conditions (a consolidated list of provenance queries coditions.)
 
 #### 2- Normalizing Logs to Canonical Form 
 
