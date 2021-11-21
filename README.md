@@ -1,10 +1,18 @@
-# APTHunter
+# APTHunter's Supplementary Informaiton
 
-#### Install neo4j 
-To install Neo4j on Debian you need to make sure of the following:
-   - An OpenJDK Java 11 runtime is installed or available through your package manager.
-   - The repository containing the Neo4j Debian package is known to the package manager.
+#### Attack conditions
+A consolidated list of provenance queries coditions for different attack techinques described in APTHunter.
 
-###### Intall Java 11 on Ubuntu 16.04
+#### Normalizing Logs to Canonical Form 
 
-Add the official OpenJDK package repository to apt:
+#### Log Consumption Time
+
+#### DARPA Datasets
+
+#### Predicated Hosts Supported By APTHunter
+
+#### S-HOLMES Threat and Benign Scores
+
+#### Single Process Application Example 
+
+#### Threat Intelligence Information 
