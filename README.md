@@ -2,7 +2,7 @@
 
 #### 1- Attack Conditions (a consolidated list of provenance queries coditions.)
 
-#### 2- Normalizing Logs to Canonical Form 
+#### 2- Normalizing Logs to Canonical Form
 
 #### 3- Log Consumption Time
 
