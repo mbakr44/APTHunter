@@ -1,18 +1,18 @@
 # APTHunter's Supplementary Informaiton
 
-#### Attack conditions
+#### 1- Attack Conditions
 A consolidated list of provenance queries coditions for different attack techinques described in APTHunter.
 
-#### Normalizing Logs to Canonical Form 
+#### 2- Normalizing Logs to Canonical Form 
 
-#### Log Consumption Time
+#### 3- Log Consumption Time
 
-#### DARPA Datasets
+#### 4- DARPA Datasets
 
-#### Predicated Hosts Supported By APTHunter
+#### 5- Predicated Hosts Supported By APTHunter
 
-#### S-HOLMES Threat and Benign Scores
+#### 6- S-HOLMES Threat and Benign Scores
 
-#### Single Process Application Example 
+#### 7- Single Process Application Example 
 
-#### Threat Intelligence Information 
+#### 8- Threat Intelligence Information 
